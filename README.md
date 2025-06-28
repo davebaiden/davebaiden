@@ -1,10 +1,4 @@
-## Hi there 👋
-
-<!--
-<h1 align="center">Hi, I'm David Baiden Amissah 👋</h1>
-<p align="center">Junior Web Developer | Software Engineering Student @ ALX | Passionate Problem Solver</p>
-
----
+## Hi there 👋 David here! | Junior Developer | Learner
 
 ### 🚀 About Me
 
@@ -27,14 +21,10 @@ The ability to create something from nothing. I believe technology is the tool t
 - AI-assisted learning platforms  
 - Scalable open-source projects that help others learn
 
----
+📫 How to Reach Me
 
-### 🛠️ Tech Stack
-```html
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-baiden-amissah/)
+- 📧 Email: davidbamissah@gmail.com
+
+---
 
